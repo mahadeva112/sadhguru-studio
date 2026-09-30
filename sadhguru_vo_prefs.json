@@ -1,0 +1,6 @@
+{
+  "step1_voice": "WuXT3GM3KEo3EFgJ6VKR",
+  "step2_voice": "kkMxZ9B1JBX0queRrnb9",
+  "step1_model": "eleven_v3",
+  "step2_model": "eleven_multilingual_sts_v2"
+}
